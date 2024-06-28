@@ -1,4 +1,5 @@
 # Aprendizado
-Apenas um local para guardar um pouco do meu caminho aprendendo programação em Java, não utilizei git anteriormente.
+Apenas um local para guardar um pouco do meu caminho aprendendo Java e também para consultas de material.
 
-no proximo repositorio irei começar a utilizar o git nos projetos.
+## Curso que estou aprendendo:
+- DevSuperior
